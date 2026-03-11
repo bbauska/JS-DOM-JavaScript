@@ -52,7 +52,7 @@ font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucid
   "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 
 p { 
-  font-size: 13px;
+  font-size: 15px;  /* 13px; */
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   text-align: left; 
   margin-left: 5px; 
@@ -86,7 +86,7 @@ a.three:visited {color:#000000;}  /* black */
 a.three:hover {background:#ee7ee7;}  /* soft yellow */
 
 h1 { 
-  font-size: 21px;
+  font-size: 23px;
   font-family: Inter, Georgia, BahnSchrift, sans-serif, Consolas; 
 }
 h2 { 
@@ -112,7 +112,7 @@ h6 {
 
 body {
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  font-size: 14.5px;   /* 1.2rem; */
+  font-size: 15px;   /* 14.5px;, 1.2rem; */
   background-color: #f5f5f5;  /* very light gray, mostly white */
   color: #ffffff;  /* white */
   text-align: left;
